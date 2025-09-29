@@ -36,6 +36,25 @@ Each case study includes:
 
 ---
 
+## 📸 Screenshots
+
+### Ticket Example – Laptop Not Powering On
+![Laptop not powering on](ticket3.png)
+
+### Ticket Example – Wi-Fi Disconnects
+![Wi-Fi disconnects](ticket4.png)
+
+### Ticket Example – Outlook Sync Error
+![Outlook sync error](ticket5.png)
+
+### Ticket Example – Printer Offline
+![Printer offline](ticket6.png)
+
+### Ticket Example – New Starter Account Setup
+![New starter account](ticket7.png)
+
+---
+
 ## 📌 About
 This project was created to simulate real-world IT Helpdesk scenarios and demonstrate readiness for IT Helpdesk Administrator roles.  
 It serves as practical evidence of my ability to support end users, manage tickets, and resolve issues efficiently.  
