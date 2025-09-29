@@ -6,8 +6,8 @@ It demonstrates my skills in troubleshooting, documentation, communication, and 
 ---
 
 ## 📂 Contents
-- **Case Studies (PDF)** – `IT_Helpdesk_Portfolio_Report.pdf`  
-- **Editable Version (Word)** – `IT_Helpdesk_Portfolio_Report.docx`  
+- **[Case Studies (PDF)](IT_Helpdesk_Portfolio_Report.pdf)**  
+- **[Editable Version (Word)](IT_Helpdesk_Portfolio_Report.docx)**
 
 Each case study includes:
 - Ticket summary  
